@@ -37,7 +37,7 @@ function searchProducts() {
 
 function orderProduct(productName) {
 
-    let phone = "91XXXXXXXXXX";
+    let phone = "919988223416";
 <!DOCTYPE html>
 <html>
 <head>
@@ -68,7 +68,7 @@ function orderProduct(productName) {
         <div class="products">
 
             <div class="product">
-                <div class="emoji">👗</div>
+                <div class="emoji"></div>
                 <h3>Elegant Dress</h3>
                 <p>₹999</p>
                 <button onclick="order('Elegant Dress')">
